@@ -1,0 +1,17 @@
+h1 {
+	text-align: center;
+}
+header {
+	margin: 10px;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+	margin: 10px;
+}
+
+.textcont {
+	margin: 20px;
+	padding: 10px;
+}

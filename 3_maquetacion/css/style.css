@@ -1,0 +1,33 @@
+h1 {
+	text-align: center;
+}
+
+.caja {
+	width: 100%;
+	height: 100px;
+	background-color: #E6E6E6;
+	border: solid #A4A4A4;
+	margin: 25px;
+	border-radius: 15px;
+}
+
+.cajaObs {
+
+	background-color: #6E6E6E;
+	width: 60px;
+	height: 100%;
+	margin: 25px;
+	border-radius: 15px;
+	
+
+	
+}
+
+.circulo {
+	 
+	 width: 100%;
+	 height: 100%;
+	 border-radius: 50%;
+	 margin: 25px;
+
+}

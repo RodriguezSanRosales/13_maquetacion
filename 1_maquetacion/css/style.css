@@ -1,0 +1,24 @@
+img {
+	width: 100%;
+	height: 100%;
+	
+}
+h1 {
+	text-align: center;
+}
+
+.textcont {
+	background-color: #E6E6E6;
+	width: 100%;
+	height: 500%;
+}
+.redondo img {
+	border-radius: 300px;
+}
+
+.textcont {
+	margin: 40px;
+	background-color: #E6E6E6;
+	padding: 5px;
+    border-radius: 15px;
+}
